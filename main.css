@@ -1,0 +1,21 @@
+.app {
+    display: flex;
+    justify-content: space-between;
+    margin: 10%;
+    padding: 2px;
+
+}
+
+#back {
+    
+    background-color: aqua;
+    width: 80vw;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin-left: 10%;
+}
+
+form{
+    font-size: 2.1rem;
+}
