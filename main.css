@@ -5,17 +5,6 @@
     padding: 2px;
 
 }
-/* 
-#back {
-    
-    background-color: aqua;
-    width: 80vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 10%;
-    
-} */
 
 form{
     font-size: 2.1rem;
@@ -26,4 +15,11 @@ body{
     background-color: #f7f9fb;
     background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%); 
     
+}
+
+button {
+    padding: 15px;
+    font-size: 2.1rem;
+    border-radius: 20%;
+    background-color: green;
 }
