@@ -1,7 +1,7 @@
 # Ghanian
 
 ##### By Derick Mokonge 
-### It is a description of Ghanian.
+### It is a description of Ghanian_Site.
 
 ## Table of Content
 
@@ -50,6 +50,8 @@
 * Plurasight
 
 * W3Schools
+
+* Tutorialspoint
 
 
 [Go Back to the top](#Ghanian)
