@@ -4,14 +4,14 @@ user.addEventListener('submit',akanName);
 
 const femalNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
 const maleName=["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
-const weekDays = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Satyrday'];
+const weekDays = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 
 function akanName(event){
     event.preventDefault();
 
     var username = document.getElementById('yourName').value.trim();
     var doB = document.getElementById('date').value.trim();
-    var gender = document.getElementsByClassName('yourSex')
+    // var gender = document.getElementsByClassName('yourSex')
 
     // find index of thhe day from the entered dates
     var my_doB= doB.toString();
