@@ -29,8 +29,8 @@
 
 * Install Git on you machine
 
---Linux Users-- Run the terminal and navigate to the location you'd like the repository in
---for Windows Users-- Navigate to the location you'd want the repository located, right click and select "git bash here"
+->Linux Users-- Run the terminal and navigate to the location you'd like the repository in.
+->for Windows Users-- Navigate to the location you'd want the repository located, right click and select "git bash here"
 * Clone the repository
 * Upon completion, navigate to the cloned repository
 
